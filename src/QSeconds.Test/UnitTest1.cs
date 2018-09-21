@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace QSecondstest
+namespace QSeconds.Test
 {
     public class UnitTest1
     {

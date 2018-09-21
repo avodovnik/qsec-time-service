@@ -1,0 +1,6 @@
+# Work in progress
+
+queue: Hosted VS2017
+
+steps:
+- script: echo hello world

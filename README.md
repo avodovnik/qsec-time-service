@@ -8,7 +8,7 @@ Despite common sense and logic, we will structure our service following [REST pr
 # Contribution Guidelines 
 Contributions are welcome! To make sure we're all productive with this project, here are some basic rules that we've laid out: 
 
-* Look into the issues tab of the project, to get started. We're constantly adding new issues, and makring them with relevant labels. Please prioritize the version currently in development, though.
+* Look into the issues tab of the project, to get started. We're constantly adding new issues, and makring them with relevant labels. Please prioritize the version currently in development, though. When you find an issue you like, *assign it to yourself*.
 * Each contribution needs to be recieved through a Pull Request. Make sure you clone the repository. We suggest that you create a _feature branch_ and then merge it when it's done.
 * The code you contribute _should_ be covered with unit tests. Those tests will get run automatically when the CI/CD pipeline is established.
 

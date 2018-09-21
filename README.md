@@ -5,6 +5,8 @@ The aim of this project will be to provide a small component, of a micro-service
 
 Despite common sense and logic, we will structure our service following [REST principles](https://codeplanet.io/principles-good-restful-api-design/). 
 
+[![Build Status](https://avpocs.visualstudio.com/qsec-time-service/_apis/build/status/qsec-time-service)](https://avpocs.visualstudio.com/qsec-time-service/_build/latest?definitionId=3)
+
 # Contribution Guidelines 
 Please read the [Contribution guideliens](CONTRIBUTING.md).
 

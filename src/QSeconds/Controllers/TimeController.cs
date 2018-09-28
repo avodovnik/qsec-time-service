@@ -10,6 +10,6 @@ namespace QSeconds.Controllers
     [ApiController]
     public class TimeController : ControllerBase
     {
-       
+        // put implementation here
     }
 }

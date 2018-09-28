@@ -11,5 +11,10 @@ namespace QSeconds.Controllers
     public class TimeController : ControllerBase
     {
         // put implementation here
+        [HttpGet]
+        public IActionResult GetTime() {
+            // todo: make this use a localization setting
+            return Content(DateTime.UtcNow.ToString("HH:mm:ss", System.Globalization.CultureInfo.InvariantCulture));
+        }
     }
 }
